@@ -11,3 +11,4 @@
 *.log
 \data\raw\housing.tgz
 *.tgz
+.vscode
